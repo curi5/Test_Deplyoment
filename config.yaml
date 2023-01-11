@@ -115,7 +115,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Wesley"
-    subtitle: "Service Desk Analyst"
+    subtitle: "IT Apprentice"
     content: "I'm a passionate techy with experience in Azure, Server Management / Configuations and Power Platform with an ambition to join the developer world. "
     image: /images/Wesley.jpg
     button:
